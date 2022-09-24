@@ -1,0 +1,4 @@
+#Fri May 13 21:14:20 CEST 2022
+base.0=C\:\\Users\\lenovo\\AndroidStudioProjects\\original-motion-app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

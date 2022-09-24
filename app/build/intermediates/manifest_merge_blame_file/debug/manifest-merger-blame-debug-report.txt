@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pfasn.detective_pf"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+8        android:minSdkVersion="9"
+8-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:15-40
+9        android:targetSdkVersion="23" />
+9-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:41-70
+10
+11    <uses-feature android:name="android.hardware.camera2" />
+11-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:9:5-60
+11-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:9:19-58
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:10:5-64
+13-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:10:22-62
+14    <uses-permission android:name="android.permission.CAMERA2" />
+14-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:11:5-65
+14-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:11:22-63
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:12:5-80
+15-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:12:22-78
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:13:5-59
+17-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:13:19-57
+18
+19    <!-- added -->
+20    <application
+20-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:15:5-29:19
+21        android:allowBackup="true"
+21-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:18:21-47
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:15:21-55
+24        android:label="@string/app_name"
+24-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:16:21-53
+25        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+25-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:17:21-79
+26        <activity
+26-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:19:9-26:20
+27            android:name="com.pfasn.detective_pf.MotionDetectionActivity"
+27-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:19:19-80
+28            android:configChanges="keyboardHidden|orientation"
+28-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:20:19-69
+29            android:screenOrientation="portrait" >
+29-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:21:19-55
+30            <intent-filter>
+30-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:22:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:23:17-68
+31-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:24:17-76
+33-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.pfasn.detective_pf.SensorsActivity" />
+36-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:28:9-74
+36-->C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:28:19-72
+37    </application>
+38
+39</manifest>

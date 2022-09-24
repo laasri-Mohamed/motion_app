@@ -1,0 +1,16 @@
+com.pfasn.detective_pf:string/description = 0x7f050001
+com.pfasn.detective_pf:string/app_name = 0x7f050000
+com.pfasn.detective_pf:layout/thefirstmain = 0x7f030001
+com.pfasn.detective_pf:mipmap/ic_launcher = 0x7f040001
+com.pfasn.detective_pf:id/switchCamera = 0x7f020007
+com.pfasn.detective_pf:mipmap/backf = 0x7f040000
+com.pfasn.detective_pf:id/resetButton = 0x7f020004
+com.pfasn.detective_pf:id/switchTitle = 0x7f020008
+com.pfasn.detective_pf:layout/main = 0x7f030000
+com.pfasn.detective_pf:id/preview = 0x7f020003
+com.pfasn.detective_pf:id/switchButton = 0x7f020006
+com.pfasn.detective_pf:id/senBar = 0x7f020005
+com.pfasn.detective_pf:id/ddd = 0x7f020001
+com.pfasn.detective_pf:id/cameraButton = 0x7f020000
+com.pfasn.detective_pf:id/motionCounter = 0x7f020002
+com.pfasn.detective_pf:drawable/icon = 0x7f010000

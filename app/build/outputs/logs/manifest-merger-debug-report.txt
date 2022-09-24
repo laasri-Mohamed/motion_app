@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:3:7-39
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:5-72
+	android:targetSdkVersion
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:41-70
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera2
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:9:19-58
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.CAMERA2
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:13:5-59
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:13:19-57
+application
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:15:5-29:19
+	android:label
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:16:21-53
+	android:icon
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:15:21-55
+	android:allowBackup
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:18:21-47
+	android:theme
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:17:21-79
+activity#com.pfasn.detective_pf.MotionDetectionActivity
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:21:19-55
+	android:configChanges
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:20:19-69
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:19:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.pfasn.detective_pf.SensorsActivity
+ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:28:9-74
+	android:name
+		ADDED from C:\Users\lenovo\AndroidStudioProjects\original-motion-app\app\src\main\AndroidManifest.xml:28:19-72

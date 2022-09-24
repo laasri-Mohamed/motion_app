@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ddd"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <SurfaceView
+        android:id="@+id/preview"
+        android:background="#ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </SurfaceView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/motionCounter"
+        android:layout_marginTop="200dp"
+        android:text="0"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#fc5e03"
+        android:textSize="200dp"
+        ></TextView>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resetButton"
+        android:text="RESET"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:background="#000000"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="600dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:onClick="onResetButton"
+        />
+</FrameLayout>
+

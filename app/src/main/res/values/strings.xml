@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motion Counter 4</string>
+    <string name="description">* Detection of movement and saving images take place by default second you can change these parameters from the settings above.\n* Saving destination: files\\phone.</string>
+</resources>
