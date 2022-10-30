@@ -10,11 +10,7 @@ public abstract class Preferences {
 
     private Preferences() {
     }
-
-    // Which motion detection to use
-    public static boolean USE_RGB = true;
-    public static boolean USE_LUMA = false;
-    public static boolean USE_STATE = false;
+²
 
     // Which photos to save
     public static boolean SAVE_PREVIOUS = false;
