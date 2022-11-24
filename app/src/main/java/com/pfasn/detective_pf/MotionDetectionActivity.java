@@ -34,12 +34,7 @@ import android.widget.Toast;
 import android.widget.ToggleButton;
 
 
-/**
- * This class extends Activity to handle a picture preview, process the frame
- * for motion, and then save the file to the SD card.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 
 public class MotionDetectionActivity extends SensorsActivity {
 

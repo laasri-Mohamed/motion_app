@@ -3,11 +3,6 @@ package com.pfasn.detective_pf.data;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 
-/**
- * This class is used to store global data.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
 public abstract class GlobalData {
 
     private GlobalData() {

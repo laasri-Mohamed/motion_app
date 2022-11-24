@@ -5,12 +5,6 @@ import android.graphics.Color;
 
 //import android.util.Log;
 
-/**
- * This class is used to process integer arrays containing RGB data and detects
- * motion.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
 public class RgbMotionDetection implements IMotionDetection {
 
     // private static final String TAG = "RgbMotionDetection";

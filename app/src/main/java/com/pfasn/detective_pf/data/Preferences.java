@@ -1,11 +1,6 @@
 package com.pfasn.detective_pf.data;
 
-/**
- * This class is used to store preferences on how to decode images and what to
- * save.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public abstract class Preferences {
 
     private Preferences() {

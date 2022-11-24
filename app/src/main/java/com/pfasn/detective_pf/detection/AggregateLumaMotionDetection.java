@@ -2,12 +2,7 @@ package com.pfasn.detective_pf.detection;
 
 //import android.util.Log;
 
-/**
- * This class is used to process integer arrays containing luma data and detects
- * motion using an aggregate map.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public class AggregateLumaMotionDetection implements IMotionDetection {
 
     // private static final String TAG = "AggregateLumaMotionDetection";

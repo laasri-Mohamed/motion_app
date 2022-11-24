@@ -5,12 +5,7 @@ import android.graphics.Color;
 
 //import android.util.Log;
 
-/**
- * This class is used to process integer arrays containing Luma data and detects
- * motion.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public class LumaMotionDetection implements IMotionDetection {
 
     // private static final String TAG = "LumaMotionDetection";

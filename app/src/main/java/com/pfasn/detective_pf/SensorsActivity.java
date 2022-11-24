@@ -14,13 +14,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 
-/**
- * This class extends Activity and processes sensor data and location data. It
- * is used to detect when the phone is in motion, so we do not try to detect
- * motion.
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public class SensorsActivity extends Activity implements SensorEventListener {
 
     private static final String TAG = "SensorsActivity";

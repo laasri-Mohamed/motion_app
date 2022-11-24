@@ -1,10 +1,6 @@
 package com.pfasn.detective_pf.detection;
 
-/**
- * This interface is used to represent a class that can detect motion
- * 
- * @author Justin Wetherell <phishman3579@gmail.com>
- */
+
 public interface IMotionDetection {
 
     /**
