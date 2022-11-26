@@ -8,7 +8,11 @@ public class AggregateLumaMotionDetection implements IMotionDetection {
     // private static final String TAG = "AggregateLumaMotionDetection";
 
     // Specific settings
-   
+    private static final int mLeniency = 10; // Difference of aggregate map of
+                                             // luma values
+    private static final int mDebugMode = 2; // State based debug
+    private static final int mXBoxes = 10; // State based debug
+    private static final int mYBoxes = 10; // State based debug
 
     private static int[] mPrevious = null;
     private static int mPreviousWidth;
