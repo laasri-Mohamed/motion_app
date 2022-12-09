@@ -1,6 +1,5 @@
 package com.pfasn.detective_pf.data;
 
-import java.util.concurrent.atomic.AtomicBoolean;
 
 
 public abstract class GlobalData {
