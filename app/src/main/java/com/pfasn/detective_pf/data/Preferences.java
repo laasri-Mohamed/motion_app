@@ -3,7 +3,6 @@ package com.pfasn.detective_pf.data;
 
 public abstract class Preferences {
 
-    private Preferences() {
     }
 
 
